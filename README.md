@@ -16,14 +16,13 @@ Extensive experimental results obtained on a public dataset demonstrate the effe
 
 ### Pipeline
 
-<p align="center">
+<p align="left">
   <img src="figs/pipeline.jpg" alt="pipeline" width="80%">
 </p>
 
 ### MSAL and MFAL
 
-<center class="half">
-  <img src="figs/msal.jpg" width="37%">
-  <img src="figs/mfal.jpg" width="43%">
-</center>
+|                  MSAL                  |                  MFAL                  |
+|:--------------------------------------:|:--------------------------------------:|
+| <img src="figs/msal.jpg" height="250"> | <img src="figs/mfal.jpg" height="250"> |
 
